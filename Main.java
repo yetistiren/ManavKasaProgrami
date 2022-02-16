@@ -26,6 +26,6 @@ public class Main {
         System.out.print("Patlıcan Kaç Kilo ? :");
         patlicanKg = input.nextDouble();
 
-        System.out.println("Toplam Tutar : = " + (armut * armutKg) + (elma * elmaKg) + (domates * domatesKg) + (muz * muzKg) + (patlican * patlicanKg));
+        System.out.println("Toplam Tutar : " + (armut * armutKg) + (elma * elmaKg) + (domates * domatesKg) + (muz * muzKg) + (patlican * patlicanKg));
     }
 }
